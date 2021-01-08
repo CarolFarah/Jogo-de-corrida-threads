@@ -1,2 +1,3 @@
-# CorridaDeCarrosThreads-Java
-Projeto Prog 2 java
+# CorridaDeCarrosThreads - Java
+
+Projeto desenvolvido em Java. Uma corrida entre três automóveis que competem entre si e o resultado deve ser randômico. 
